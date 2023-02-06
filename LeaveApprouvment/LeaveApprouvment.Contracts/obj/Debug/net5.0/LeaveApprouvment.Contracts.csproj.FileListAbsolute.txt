@@ -1,0 +1,45 @@
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\bin\Debug\net5.0\LeaveApprouvment.Contracts.deps.json
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\bin\Debug\net5.0\LeaveApprouvment.Contracts.dll
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\bin\Debug\net5.0\LeaveApprouvment.Contracts.pdb
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.csproj.AssemblyReference.cache
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.AssemblyInfoInputs.cache
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.AssemblyInfo.cs
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.dll
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\refint\LeaveApprouvment.Contracts.dll
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.pdb
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\ref\LeaveApprouvment.Contracts.dll
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\bin\Debug\net5.0\LeaveApprouvment.Domains.dll
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\bin\Debug\net5.0\LeaveApprouvment.Domains.pdb
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.csproj.CopyComplete
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\bin\Debug\net5.0\LeaveApprouvment.Contracts.deps.json
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\bin\Debug\net5.0\LeaveApprouvment.Contracts.dll
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\bin\Debug\net5.0\LeaveApprouvment.Contracts.pdb
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\bin\Debug\net5.0\LeaveApprouvment.Domains.dll
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\bin\Debug\net5.0\LeaveApprouvment.Domains.pdb
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.csproj.AssemblyReference.cache
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.AssemblyInfoInputs.cache
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.AssemblyInfo.cs
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.csproj.CopyComplete
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.dll
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\refint\LeaveApprouvment.Contracts.dll
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.pdb
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\ref\LeaveApprouvment.Contracts.dll
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\bin\Debug\net5.0\LeaveApprouvment.Contracts.deps.json
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\bin\Debug\net5.0\LeaveApprouvment.Contracts.dll
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\bin\Debug\net5.0\LeaveApprouvment.Contracts.pdb
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\bin\Debug\net5.0\LeaveApprouvment.Domains.dll
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\bin\Debug\net5.0\LeaveApprouvment.Domains.pdb
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.csproj.AssemblyReference.cache
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.AssemblyInfoInputs.cache
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.AssemblyInfo.cs
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.csproj.CopyComplete
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.dll
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\refint\LeaveApprouvment.Contracts.dll
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\LeaveApprouvment.Contracts.pdb
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Contracts\obj\Debug\net5.0\ref\LeaveApprouvment.Contracts.dll

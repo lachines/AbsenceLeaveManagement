@@ -1,0 +1,36 @@
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\bin\Debug\net5.0\LeaveApprouvment.Domains.deps.json
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\bin\Debug\net5.0\LeaveApprouvment.Domains.dll
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\bin\Debug\net5.0\LeaveApprouvment.Domains.pdb
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\LeaveApprouvment.Domains.csproj.AssemblyReference.cache
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\LeaveApprouvment.Domains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\LeaveApprouvment.Domains.AssemblyInfoInputs.cache
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\LeaveApprouvment.Domains.AssemblyInfo.cs
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\LeaveApprouvment.Domains.csproj.CoreCompileInputs.cache
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\LeaveApprouvment.Domains.dll
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\refint\LeaveApprouvment.Domains.dll
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\LeaveApprouvment.Domains.pdb
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\ref\LeaveApprouvment.Domains.dll
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\bin\Debug\net5.0\LeaveApprouvment.Domains.deps.json
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\bin\Debug\net5.0\LeaveApprouvment.Domains.dll
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\bin\Debug\net5.0\LeaveApprouvment.Domains.pdb
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\LeaveApprouvment.Domains.csproj.AssemblyReference.cache
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\LeaveApprouvment.Domains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\LeaveApprouvment.Domains.AssemblyInfoInputs.cache
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\LeaveApprouvment.Domains.AssemblyInfo.cs
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\LeaveApprouvment.Domains.csproj.CoreCompileInputs.cache
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\LeaveApprouvment.Domains.dll
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\refint\LeaveApprouvment.Domains.dll
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\LeaveApprouvment.Domains.pdb
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\ref\LeaveApprouvment.Domains.dll
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\bin\Debug\net5.0\LeaveApprouvment.Domains.deps.json
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\bin\Debug\net5.0\LeaveApprouvment.Domains.dll
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\bin\Debug\net5.0\LeaveApprouvment.Domains.pdb
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\LeaveApprouvment.Domains.csproj.AssemblyReference.cache
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\LeaveApprouvment.Domains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\LeaveApprouvment.Domains.AssemblyInfoInputs.cache
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\LeaveApprouvment.Domains.AssemblyInfo.cs
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\LeaveApprouvment.Domains.csproj.CoreCompileInputs.cache
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\LeaveApprouvment.Domains.dll
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\refint\LeaveApprouvment.Domains.dll
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\LeaveApprouvment.Domains.pdb
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Domains\obj\Debug\net5.0\ref\LeaveApprouvment.Domains.dll

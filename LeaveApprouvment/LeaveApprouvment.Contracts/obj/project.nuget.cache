@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "O24q/EvAXHR4/LfjXL9+aniyLQRs20q1GRTApVkCNB1ai0RB2/0CtgQm8acM6XKnigQWruAXcCw0w5jZBpTa3w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lachi\\Desktop\\project ines\\project$\\Ines Lachiheb\\Ines Lachiheb\\LeaveApprouvment\\LeaveApprouvment.Contracts\\LeaveApprouvment.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lachi\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
+    "C:\\Users\\lachi\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",
+    "C:\\Users\\lachi\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\lachi\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\lachi\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\lachi\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\lachi\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

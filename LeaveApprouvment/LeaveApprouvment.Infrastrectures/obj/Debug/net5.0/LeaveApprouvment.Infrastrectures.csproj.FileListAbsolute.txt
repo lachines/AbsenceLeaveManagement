@@ -1,0 +1,54 @@
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\bin\Debug\net5.0\LeaveApprouvment.Infrastrectures.deps.json
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\bin\Debug\net5.0\LeaveApprouvment.Infrastrectures.runtimeconfig.json
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\bin\Debug\net5.0\LeaveApprouvment.Infrastrectures.runtimeconfig.dev.json
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\bin\Debug\net5.0\LeaveApprouvment.Infrastrectures.dll
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\bin\Debug\net5.0\LeaveApprouvment.Infrastrectures.pdb
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\bin\Debug\net5.0\LeaveApprouvment.Domains.dll
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\bin\Debug\net5.0\LeaveApprouvment.Domains.pdb
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.csproj.AssemblyReference.cache
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.AssemblyInfoInputs.cache
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.AssemblyInfo.cs
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.csproj.CoreCompileInputs.cache
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.csproj.CopyComplete
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.dll
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\refint\LeaveApprouvment.Infrastrectures.dll
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.pdb
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.genruntimeconfig.cache
+C:\Users\lachi\Downloads\project�\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\ref\LeaveApprouvment.Infrastrectures.dll
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\bin\Debug\net5.0\LeaveApprouvment.Infrastrectures.deps.json
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\bin\Debug\net5.0\LeaveApprouvment.Infrastrectures.runtimeconfig.json
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\bin\Debug\net5.0\LeaveApprouvment.Infrastrectures.runtimeconfig.dev.json
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\bin\Debug\net5.0\LeaveApprouvment.Infrastrectures.dll
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\bin\Debug\net5.0\LeaveApprouvment.Infrastrectures.pdb
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\bin\Debug\net5.0\LeaveApprouvment.Domains.dll
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\bin\Debug\net5.0\LeaveApprouvment.Domains.pdb
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.csproj.AssemblyReference.cache
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.AssemblyInfoInputs.cache
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.AssemblyInfo.cs
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.csproj.CoreCompileInputs.cache
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.csproj.CopyComplete
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.dll
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\refint\LeaveApprouvment.Infrastrectures.dll
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.pdb
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.genruntimeconfig.cache
+C:\Users\lachi\Downloads\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\ref\LeaveApprouvment.Infrastrectures.dll
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\bin\Debug\net5.0\LeaveApprouvment.Infrastrectures.deps.json
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\bin\Debug\net5.0\LeaveApprouvment.Infrastrectures.runtimeconfig.json
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\bin\Debug\net5.0\LeaveApprouvment.Infrastrectures.runtimeconfig.dev.json
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\bin\Debug\net5.0\LeaveApprouvment.Infrastrectures.dll
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\bin\Debug\net5.0\LeaveApprouvment.Infrastrectures.pdb
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\bin\Debug\net5.0\LeaveApprouvment.Domains.dll
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\bin\Debug\net5.0\LeaveApprouvment.Domains.pdb
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.csproj.AssemblyReference.cache
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.AssemblyInfoInputs.cache
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.AssemblyInfo.cs
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.csproj.CoreCompileInputs.cache
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.csproj.CopyComplete
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.dll
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\refint\LeaveApprouvment.Infrastrectures.dll
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.pdb
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\LeaveApprouvment.Infrastrectures.genruntimeconfig.cache
+C:\Users\lachi\Desktop\project ines\project$\Ines Lachiheb\Ines Lachiheb\LeaveApprouvment\LeaveApprouvment.Infrastrectures\obj\Debug\net5.0\ref\LeaveApprouvment.Infrastrectures.dll

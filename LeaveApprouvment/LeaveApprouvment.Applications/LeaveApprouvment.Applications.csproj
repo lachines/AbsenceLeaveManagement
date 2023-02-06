@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk" ToolsVersion="Current">
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Remove="Services - Copy\**" />
+    <EmbeddedResource Remove="Services - Copy\**" />
+    <None Remove="Services - Copy\**" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LeaveApprouvment.Contracts\LeaveApprouvment.Contracts.csproj" />
+    <ProjectReference Include="..\LeaveApprouvment.Domains\LeaveApprouvment.Domains.csproj" />
+  </ItemGroup>
+</Project>
